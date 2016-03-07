@@ -3,8 +3,15 @@
 Project Description:
 In this project, I created a simple management of real estate. I made it using PHP and MySQL
 
-## Introduction
-You only must to configure the "conexion.php" file. There is the DataBase configuration
+## SETUP
+The `realestate.sql` file contains the MySQL Schema and some sample data. Import the file in a new database
+You only must to configure the `conexion.php` file. There is the DataBase configuration
+
+The folder ./inmoadmin/ is used for CRUD 
+User: admin
+Pass: admin
+
+
 
 ## Requierments
 PHP interpreter
